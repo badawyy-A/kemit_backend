@@ -1,0 +1,377 @@
+hospitals
+
+
+
+[
+    {
+        "id": "dc111fa2-2a8d-47b7-baf1-4a0bcfd7abaf",
+        "name": "International Medical Center",
+        "description": "Healthcare institution that provides medical treatment, surgical procedures, and nursing care for patients.",
+        "city": "Cairo",
+        "location": "https://maps.app.goo.gl/Zs3TtDqjCkGDrhmC9",
+        "entryFee": 0.0,
+        "rating": 4.1,
+        "images": ["uploads/tourism-places/internationalmedical.jpg"],
+        "openingTime": "2025-02-19T10:00:00",
+        "closingTime": "2025-02-19T23:00:00",
+        "isPopular": true,
+        "categoryId": "ffb4fcd2-aa4f-4bc2-987a-093d09196d0b",
+        "activities": []
+    },
+    {
+        "id": "11b7b755-712c-4608-8443-e6864cb2f024",
+        "name": "Andalusia",
+        "description": "Healthcare institution that provides medical treatment, surgical procedures, and nursing care for patients.",
+        "city": "Cairo",
+        "location": "https://maps.app.goo.gl/qu4wzBEbs35cNKSY6",
+        "entryFee": 0.0,
+        "rating": 3.4,
+        "images": ["uploads/tourism-places/Andalusia.jpg"],
+        "openingTime": "2025-02-19T10:00:00",
+        "closingTime": "2025-02-19T23:00:00",
+        "isPopular": true,
+        "categoryId": "ffb4fcd2-aa4f-4bc2-987a-093d09196d0b",
+        "activities": []
+    },
+    {
+        "id": "0997f858-9f1f-45f1-9f73-f9c0d2cb7bf4",
+        "name": "AsSalam International Hospital",
+        "description": "Healthcare institution that provides medical treatment, surgical procedures, and nursing care for patients.",
+        "city": "Cairo",
+        "location": "https://maps.app.goo.gl/KKM7y2vK7FuVAcEU7",
+        "entryFee": 0.0,
+        "rating": 4.7,
+        "images": ["uploads/tourism-places/AsSalamInternationalHospital.jpg"],
+        "openingTime": "2025-02-19T10:00:00",
+        "closingTime": "2025-02-19T23:00:00",
+        "isPopular": true,
+        "categoryId": "ffb4fcd2-aa4f-4bc2-987a-093d09196d0b",
+        "activities": []
+    }
+]
+
+
+historical 
+
+
+[
+    {
+        "id": "a7ea79a5-a302-492d-9182-0ae736b1c069",
+        "name": "Abu Simbel Temples",
+        "description": "Huge 13th-century BC monument to Ramesses II, one of two temples relocated when Aswan dam was built.",
+        "city": "Aswan",
+        "location": "https://maps.app.goo.gl/rnp8WuiFVWZm4mq28",
+        "entryFee": 240.0,
+        "rating": 4.8,
+        "images": ["uploads/tourism-places/0528ca40-410f-4f15-9a64-81e417b96e11.jpeg"],
+        "openingTime": "2025-02-19T05:00:00",
+        "closingTime": "2025-02-19T18:00:00",
+        "isPopular": true,
+        "categoryId": "53cebe41-d2e0-4d74-99ce-437ad97b5e94",
+        "activities": []
+    },
+    {
+        "id": "eb24c703-5e45-4bc4-8c57-41d99adc561c",
+        "name": "Great Sphinx of Giza",
+        "description": "Iconic stone monument that is more than 4,500 years old & has a human face on a lion's body.",
+        "city": "Giza",
+        "location": "https://maps.app.goo.gl/kzxt2UND6S1usQdo8",
+        "entryFee": 700.0,
+        "rating": 4.7,
+        "images": ["uploads/tourism-places/greatsphinx.jpg"],
+        "openingTime": "2025-02-19T08:00:00",
+        "closingTime": "2025-02-19T17:00:00",
+        "isPopular": true,
+        "categoryId": "53cebe41-d2e0-4d74-99ce-437ad97b5e94",
+        "activities": []
+    },
+    {
+        "id": "07410345-d624-4af3-aa8d-5502aa1fe827",
+        "name": "Step Pyramid of Djoser",
+        "description": "The pyramid of Djoser, sometimes called the Step Pyramid of Djoser or Zoser, Step Pyramid of Horus Neterikhet is an archaeological site in the Saqqara necropolis, Egypt, northwest of the ruins of Memphis. It is the first Egyptian pyramid to be built.",
+        "city": "Giza",
+        "location": "https://maps.app.goo.gl/ReTb4Ch3Bt1GonKo9",
+        "entryFee": 1000.0,
+        "rating": 4.333333333333333,
+        "images": ["uploads/tourism-places/steppyramids.jpg"],
+        "openingTime": "2025-02-20T08:00:00",
+        "closingTime": "2025-02-20T16:30:00",
+        "isPopular": true,
+        "categoryId": "53cebe41-d2e0-4d74-99ce-437ad97b5e94",
+        "activities": []
+    },
+    {
+        "id": "e0a0b146-a5a6-4056-abf4-9e6e7c95fc5d",
+        "name": "Mortuary Temple of Hatshepsut",
+        "description": "Iconic, reconstructed New Kingdom mortuary temple beneath the cliffs at Deir el-Bahari.",
+        "city": "Luxor",
+        "location": "https://maps.app.goo.gl/MbeVkCtzSHW1CMot7",
+        "entryFee": 440.0,
+        "rating": 4.7,
+        "images": ["uploads/tourism-places/hatshepsut.jpg"],
+        "openingTime": "2025-02-20T05:00:00",
+        "closingTime": "2025-02-20T18:00:00",
+        "isPopular": true,
+        "categoryId": "53cebe41-d2e0-4d74-99ce-437ad97b5e94",
+        "activities": []
+    },
+    {
+        "id": "9e222e26-7705-4e1c-9da4-c7cb5b224cd5",
+        "name": "The Great Pyramid of Giza",
+        "description": "Largest of Egyptian pyramids in a complex also including temples & other Ancient artifacts.",
+        "city": "Giza",
+        "location": "https://maps.app.goo.gl/LUbLsNwyKphpt8mu7",
+        "entryFee": 1000.0,
+        "rating": 4.6,
+        "images": ["uploads/tourism-places/TheGreatPyramidofGiza.jpg"],
+        "openingTime": "2025-02-20T08:00:00",
+        "closingTime": "2025-02-20T16:30:00",
+        "isPopular": true,
+        "categoryId": "53cebe41-d2e0-4d74-99ce-437ad97b5e94",
+        "activities": []
+    }
+]
+
+
+
+souvenir
+
+
+[
+    {
+        "id": "3622e181-e337-4cdf-a399-ab21c8ac203f",
+        "name": "Mall of Arabia",
+        "description": "Offers international and local brands, numerous dining outlets, and entertainment facilities, including a cinema and family entertainment center.",
+        "city": "Giza",
+        "location": "https://maps.app.goo.gl/vMHTCAHJp2QPg5SKA",
+        "entryFee": 0.0,
+        "rating": 4.6,
+        "images": ["uploads/tourism-places/mallofarabia.jpg"],
+        "openingTime": "2025-02-19T10:00:00",
+        "closingTime": "2025-02-19T23:00:00",
+        "isPopular": true,
+        "categoryId": "5ba2ee6a-6944-4e22-97d9-532b7fc8b31b",
+        "activities": []
+    },
+    {
+        "id": "1eed8db5-4880-4bb1-a6ab-cb6da004dd8b",
+        "name": "Cairo Festival City",
+        "description": "Features over 300 stores, 95 restaurants and cafés, IKEA, Carrefour, and an outdoor Village area with a Dancing Fountain.",
+        "city": "Cairo",
+        "location": "https://maps.app.goo.gl/SGGcFfwKVz5m3CS37",
+        "entryFee": 0.0,
+        "rating": 4.6,
+        "images": ["uploads/tourism-places/CairoFestivalCity.jpg"],
+        "openingTime": "2025-02-19T10:00:00",
+        "closingTime": "2025-02-19T12:00:00",
+        "isPopular": true,
+        "categoryId": "5ba2ee6a-6944-4e22-97d9-532b7fc8b31b",
+        "activities": []
+    },
+    {
+        "id": "2b744f91-036e-432a-ae89-da2c15600d7c",
+        "name": "City Centre Alexandria",
+        "description": "Offers numerous retail stores, a Carrefour hypermarket, dining options, and a cinema complex.",
+        "city": "Alexandria",
+        "location": "https://maps.app.goo.gl/7ScM2yWGKcxVDjAe8",
+        "entryFee": 0.0,
+        "rating": 4.5,
+        "images": ["uploads/tourism-places/0528ca40-410f-4f15-9a64-81e417b96e11.jpeg"],
+        "openingTime": "2025-02-19T10:00:00",
+        "closingTime": "2025-02-19T23:00:00",
+        "isPopular": true,
+        "categoryId": "5ba2ee6a-6944-4e22-97d9-532b7fc8b31b",
+        "activities": []
+    },
+    {
+        "id": "4d2f10bf-f054-4f47-adb5-e3b039e5b9ad",
+        "name": "Mall of Egypt",
+        "description": "Offers a wide range of retail stores, VOX Cinemas, and Ski Egypt, the country's first indoor ski slope.",
+        "city": "Giza",
+        "location": "https://maps.app.goo.gl/xV4JSC1jzGCo6VmH9",
+        "entryFee": 0.0,
+        "rating": 4.6,
+        "images": ["uploads/tourism-places/mallofarabia.jpg"],
+        "openingTime": "2025-02-19T10:00:00",
+        "closingTime": "2025-02-19T23:00:00",
+        "isPopular": true,
+        "categoryId": "5ba2ee6a-6944-4e22-97d9-532b7fc8b31b",
+        "activities": []
+    }
+]
+
+
+
+museums 
+
+
+[
+    {
+        "id": "4db7d28b-88f8-4a28-b817-16ddc3da9000",
+        "name": "Om Kulthum Museum",
+        "description": "Om Kulthum Museum is a biographical museum on Roda Island, Cairo, Egypt. The Om Kulthum Museum is dedicated to Umm Kulthum, or Om Kulthum, the famous Egyptian singer, songwriter, and actress. The museum is located in the Monastirli Palace, which dates from 1851.",
+        "city": "Cairo",
+        "location": "https://maps.app.goo.gl/APJnpHATDV1H9pzw9",
+        "entryFee": 100.0,
+        "rating": 5.0,
+        "images": ["uploads/tourism-places/omkalsoum.jpg"],
+        "openingTime": "2025-02-19T08:30:00",
+        "closingTime": "2025-02-19T21:00:00",
+        "isPopular": true,
+        "categoryId": "7f50361d-a488-44a2-9179-6c3109648d9c",
+        "activities": []
+    },
+    {
+        "id": "3f11d6c0-c842-4f7a-b72b-311f4fcc13cf",
+        "name": "Nubian Museum",
+        "description": "The Nubian Museum in Aswan celebrates the culture and history of the Nubian people. It has many artifacts, statues, and tools that show how Nubians lived in ancient times. The museum also highlights the story of Nubia’s land and people after the building of the Aswan High Dam. It’s a great place to learn about Nubian heritage and traditions.",
+        "city": "Aswan",
+        "location": "https://maps.app.goo.gl/QLmdKonMiTf3MHeNA",
+        "entryFee": 1000.0,
+        "rating": 4.0,
+        "images": ["uploads/tourism-places/nubian.jpg"],
+        "openingTime": "2025-02-19T08:30:00",
+        "closingTime": "2025-02-19T21:00:00",
+        "isPopular": true,
+        "categoryId": "7f50361d-a488-44a2-9179-6c3109648d9c",
+        "activities": []
+    },
+    {
+        "id": "c27dcb0c-75c0-4f7b-878f-b16a0bc423a0",
+        "name": "Mummification Museum",
+        "description": "The Mummification Museum is in Luxor and explains the ancient Egyptian art of mummification. It shows tools, materials, and mummies used in this process for both humans and animals. The museum is small but gives a fascinating look at how the ancient Egyptians preserved their dead for the afterlife.",
+        "city": "Luxor",
+        "location": "https://maps.app.goo.gl/bDrjALWyaCMXQNPH7",
+        "entryFee": 1500.0,
+        "rating": 4.3,
+        "images": ["uploads/tourism-places/MummificationMuseum.jpg"],
+        "openingTime": "2025-02-19T08:30:00",
+        "closingTime": "2025-02-19T22:00:00",
+        "isPopular": true,
+        "categoryId": "7f50361d-a488-44a2-9179-6c3109648d9c",
+        "activities": []
+    },
+    {
+        "id": "dd95cc0b-61bc-44b7-be89-b5eb729b95f2",
+        "name": "Luxor Museum",
+        "description": "The Luxor Museum is an archaeological museum in Luxor, Egypt. It stands on the corniche, overlooking the east bank of the River Nile. The museum has amazing artifacts, including statues, jewelry, and items from tombs found in the area. It is small but well-organized, making it easy to enjoy and learn about Egypt’s history.",
+        "city": "Luxor",
+        "location": "https://maps.app.goo.gl/TguyffjMvVjwEzXP8",
+        "entryFee": 300.0,
+        "rating": 4.6,
+        "images": ["uploads/tourism-places/LuxorMuseum.jpg"],
+        "openingTime": "2025-02-19T08:30:00",
+        "closingTime": "2025-02-19T21:00:00",
+        "isPopular": true,
+        "categoryId": "7f50361d-a488-44a2-9179-6c3109648d9c",
+        "activities": []
+    },
+    {
+        "id": "f33aedca-b709-4aef-b4d0-b857b715d36b",
+        "name": "The Grand Egyptian Museum",
+        "description": "The Grand Egyptian Museum (GEM) is a huge museum near the Pyramids of Giza. It is the largest of its kind and shows Egypt's amazing history. The museum has thousands of ancient artifacts, including all the treasures from King Tutankhamun’s tomb. Its modern design and location make it a special place to learn about Egypt's past and enjoy the view of the pyramids.",
+        "city": "Giza",
+        "location": "https://maps.app.goo.gl/VDMYo5UxVikD4LiE8",
+        "entryFee": 1200.0,
+        "rating": 4.5,
+        "images": ["uploads/tourism-places/TheGrandEgyptianMuseum.jpg"],
+        "openingTime": "2025-02-19T08:30:00",
+        "closingTime": "2025-02-19T22:00:00",
+        "isPopular": true,
+        "categoryId": "7f50361d-a488-44a2-9179-6c3109648d9c",
+        "activities": []
+    },
+    {
+        "id": "a1487017-94db-4b6b-a77e-f9dbbf709623",
+        "name": "Ahmed Shawky Museum",
+        "description": "The Ahmed Shawki Museum is a writer's house museum in Cairo, dedicated to the famous Egyptian poet and dramatist Ahmed Shawki. The museum is in his former home and shows his personal belongings, manuscripts, and works. It’s a wonderful place to learn about Shawki’s life and his contributions to Arabic literature.",
+        "city": "Giza",
+        "location": "https://maps.app.goo.gl/iZezVvUyec5r9YNW6",
+        "entryFee": 100.0,
+        "rating": 4.3,
+        "images": ["uploads/tourism-places/AhmedShawkyMuseum.jpg"],
+        "openingTime": "2025-02-19T10:00:00",
+        "closingTime": "2025-02-19T20:00:00",
+        "isPopular": true,
+        "categoryId": "7f50361d-a488-44a2-9179-6c3109648d9c",
+        "activities": []
+    }
+]
+
+
+entertainment 
+
+[]
+
+
+
+religious
+
+[]
+
+
+hotels 
+
+[]
+
+
+restaurant 
+
+[]
+
+beaches
+
+[
+    {
+        "id": "3f002053-2268-4dc1-b0e7-5cf4b22e3000",
+        "name": "Marina Beach",
+        "description": "A stylish beach with access to luxury yachts and upscale restaurants. The calm waters and sandy shoreline make it a favorite for families and visitors who want an upscale, relaxing experience.",
+        "city": "Red Sea",
+        "location": "https://maps.app.goo.gl/qfMFCY6hZUd9Ru4y6",
+        "entryFee": 0.0,
+        "rating": 4.5,
+        "images": ["uploads/tourism-places/marinabeach.jpg"],
+        "openingTime": "2025-02-19T10:00:00",
+        "closingTime": "2025-02-19T19:00:00",
+        "isPopular": true,
+        "categoryId": "c493657a-1c1d-44db-affb-f291e8c17f3c",
+        "activities": []
+    },
+    {
+        "id": "3e723add-312b-43ab-922d-afc68fc21bc9",
+        "name": "Buzzha Beach",
+        "description": "A chilled-out beach with a youthful vibe, known for its lively atmosphere. It’s a great spot for socializing, playing beach games, or relaxing on bean bags with drinks.",
+        "city": "Red Sea",
+        "location": "https://maps.app.goo.gl/NzcCvAykxY4SDoQAA",
+        "entryFee": 0.0,
+        "rating": 4.5,
+        "images": ["uploads/tourism-places/buzzhabeachrestaurant.jpg"],
+        "openingTime": "2025-02-19T10:00:00",
+        "closingTime": "2025-02-19T19:00:00",
+        "isPopular": true,
+        "categoryId": "c493657a-1c1d-44db-affb-f291e8c17f3c",
+        "activities": []
+    },
+    {
+        "id": "48b49ba4-27f1-444a-99a2-b7597e8e0e0b",
+        "name": "Shark’s Bay Beach",
+        "description": "Known for its luxurious resorts and calm waters, this beach is ideal for snorkeling and diving. The coral reefs here are vibrant, and it’s a good spot for spotting colorful fish.",
+        "city": "South Sinai",
+        "location": "https://maps.app.goo.gl/gJCvetsfekgVNqKg9",
+        "entryFee": 0.0,
+        "rating": 4.8,
+        "images": ["uploads/tourism-places/SharkBayBeach.jpg"],
+        "openingTime": "2025-02-19T10:00:00",
+        "closingTime": "2025-02-19T19:00:00",
+        "isPopular": true,
+        "categoryId": "c493657a-1c1d-44db-affb-f291e8c17f3c",
+        "activities": []
+    }
+]
+
+
+
+
+
+
+ 
